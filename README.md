@@ -27,6 +27,12 @@
 - **Reports and customers:** sales, best sellers, average ticket, and a simple CRM
 - **Account:** subscription and plan, company details, delivery radius, opening hours, multiple stores, team invites and branding
 
+### Inside the panel
+
+<img src="docs/panel-menu.png" alt="Menu management in the PizzaFlow panel" width="100%">
+
+<img src="docs/panel-reports.png" alt="Reports: revenue, orders, average ticket, prep times and busiest hours" width="100%">
+
 ## How it's built
 
 ```mermaid
